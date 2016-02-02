@@ -1,0 +1,60 @@
+body {
+  padding-top: 80px;
+  background-color: #f4f3ef;
+  color: #66615b
+}
+
+.navbar-brand, h1{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.navbar-default  {
+background-color: #7A9E9F;
+border-color: #7A9E9F;
+}
+
+.navbar-default .navbar-brand {
+color: #fff;
+font-size: 1.7em;
+}
+
+.navbar-default .navbar-nav>li>a {
+color: #fff;
+font-size: 1.5em;
+}
+
+.navbar-nav {
+text-align: right;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, a {
+font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
+}
+
+.h1, h1 {
+font-size: 3.5em;
+}
+
+p {
+margin: 10px 0;
+}
+
+.banner {
+  margin: 25px auto;
+}
+
+.logo {
+  margin: -30px auto;
+}
+
+.featured {
+  margin: auto;
+}
+
+hr {
+  border-top: 1px solid #F1EAE0;
+}
+
+footer {
+  margin-bottom: 25px;
+}
